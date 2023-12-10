@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(12, 12, 41)
+}
+h1{
+    font-size:40px;
+}
+
+h2{
+    color:greenyellow;
+    font-size:30px;
+}
+h1,h3,h4{
+    color:white;
+}
+p{
+    color:white;
+    font-size:14px;
+}
+a{
+    color:red;
+}
